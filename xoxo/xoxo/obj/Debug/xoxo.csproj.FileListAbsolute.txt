@@ -1,0 +1,10 @@
+C:\Users\Elif Koçoğlu\source\repos\xoxo\xoxo\bin\Debug\xoxo.exe.config
+C:\Users\Elif Koçoğlu\source\repos\xoxo\xoxo\bin\Debug\xoxo.exe
+C:\Users\Elif Koçoğlu\source\repos\xoxo\xoxo\bin\Debug\xoxo.pdb
+C:\Users\Elif Koçoğlu\source\repos\xoxo\xoxo\obj\Debug\xoxo.csprojAssemblyReference.cache
+C:\Users\Elif Koçoğlu\source\repos\xoxo\xoxo\obj\Debug\xoxo.Form1.resources
+C:\Users\Elif Koçoğlu\source\repos\xoxo\xoxo\obj\Debug\xoxo.Properties.Resources.resources
+C:\Users\Elif Koçoğlu\source\repos\xoxo\xoxo\obj\Debug\xoxo.csproj.GenerateResource.cache
+C:\Users\Elif Koçoğlu\source\repos\xoxo\xoxo\obj\Debug\xoxo.csproj.CoreCompileInputs.cache
+C:\Users\Elif Koçoğlu\source\repos\xoxo\xoxo\obj\Debug\xoxo.exe
+C:\Users\Elif Koçoğlu\source\repos\xoxo\xoxo\obj\Debug\xoxo.pdb
